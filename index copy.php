@@ -124,3 +124,15 @@
 </body>
 
 </html>
+
+
+
+// function media_aritmetica($a, $b) //Aquí definimos la función y la llamamos media_arimetica y las variables a y b
+// {
+//     $media = ($a + $b) / 2; //escribimos la fórmula de la media, en este caso de 2 números divididos entre 2
+    
+//     return $media; // aquí la función retorna el valor de la media
+// }
+
+// echo media_aritmetica(7, 9) . "< br >"; // aquí ingresamos los números, en este caso 7 y 9
+// echo media_aritmetica(300, 500);//aquí ingresamos otros dos números 300 y 500
